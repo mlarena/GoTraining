@@ -1,9 +1,10 @@
-Модуль 1. GraphQL и NoSQL  (10 ак. ч.)
+Модуль 1. GraphQL и NoSQL  
 GraphQL - получение данныx
 Структура приложения и создание демострационного проекта
 Встраивание GraphQL в демонстрационный проект
 Практикум. Создание web приложения «Каталог книг» на основе NoSQL DB
-Модуль 2. Continuous integration / Continuous Integration (CI/CD)  (6 ак. ч.)
+
+Модуль 2. Continuous integration / Continuous Integration (CI/CD)  
 Continuous integration / Continuous Integration как важная составляющая проекта
 Развертывание на PaaS сервере
 Настройка автоматического обновления проекта через GitHub
