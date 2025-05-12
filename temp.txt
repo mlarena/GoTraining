@@ -1,0 +1,23 @@
+рабочий пример программы реализующий паттерн Repository Pattern. добавить описание в коде. описание паттерна.
+
+Data Mapper
+Active Record
+Unit of Work
+DAO (Data Access Object)
+Query Builder
+ORM (Object-Relational Mapping)
+
+
+1. **Для строго периодических задач** (раз в минуту/час/день) - используйте **Ticker-based Service**
+2. **Для переменной нагрузки с параллельной обработкой** - **Worker Pool + Scheduler**
+3. **Для событийно-управляемых систем** - **Event-driven с дебаунсингом**
+
+
+Worker Pool (Пул воркеров)
+Fan-out/Fan-in
+Circuit Breaker (Автоматический выключатель)
+Rate Limiter (Ограничитель запросов)
+Sharded Map (Шардированная мапа)
+Connection Pool (Пул соединений)
+Batching (Пакетная обработка)
+Caching (Кэширование)
